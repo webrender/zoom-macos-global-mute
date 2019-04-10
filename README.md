@@ -4,7 +4,7 @@
 
 • Download and extract the ZIP from Github  
 • Drag the Zoom Global Mute app into your Applications folder  
-• Open Automator, and select `File > New > Quick Applications`  
+• Open Automator, and select `File > New > Quick Action`  
 • Configure your quick action:  
 &nbsp;&nbsp;&nbsp;&nbsp;• Workflow receives `no input` in `any application`  
 &nbsp;&nbsp;&nbsp;&nbsp;• Choose `Launch Application` from the 2nd column  
