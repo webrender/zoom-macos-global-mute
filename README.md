@@ -1,5 +1,7 @@
 # Zoom Global Muting for Mac OS
 
+#### This is an Automator app which lets you set a global hotkey to toggle muting in Zoom on Mac OS.
+
 • Download and extract the ZIP from Github  
 • Drag the Zoom Global Mute app into your Applications folder  
 • Open Automator, and select `File > New > Quick Applications`  
