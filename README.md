@@ -1,7 +1,7 @@
 # Zoom Global Muting for Mac OS
 
-• Download and extract the ZIP from Github
-• Drag the Zoom Global Mute app into your Applications folder  
+• Download and extract the ZIP from Github  
+• Drag the Zoom Global Mute app into your Applications folder  
 • Open Automator, and select `File > New > Quick Applications`  
 • Configure your quick action:  
 &nbsp;&nbsp;&nbsp;&nbsp;• Workflow receives `no input` in `any application`  
