@@ -14,5 +14,5 @@
 • Return to the System Preferences menu, select `Security & Privacy > Privacy > Accessibility`  
 &nbsp;&nbsp;&nbsp;&nbsp;• Click the lock at the bottom left to make changes  
 &nbsp;&nbsp;&nbsp;&nbsp;• Click the `+` and add `Zoom Global Mute` from your Applications folder  
-• Close System Preferences, and test our your new global keyboard shortcut!  
+• Close System Preferences, and test your new global keyboard shortcut!  
 &nbsp;&nbsp;&nbsp;&nbsp;• You may get a System Events warning the first time you use your shortcut, just click OK 
